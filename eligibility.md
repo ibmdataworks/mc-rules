@@ -1,8 +1,6 @@
 # Mastecard Rules
 
-## Introduction
-
-This knowledge is essential for specifically Mastercard customers. The data is around Mastercard rules. Source: https://www.mastercard.us/en-us/business/overview/support/rules.html
+Source: https://www.mastercard.us/en-us/business/overview/support/rules.html
 
 # Eligibility to be a Customer
 ## Payment Transfer Activity
