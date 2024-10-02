@@ -1,7 +1,5 @@
 # Mastecard Rules
 
-Source: https://www.mastercard.us/en-us/business/overview/support/rules.html
-
 # Eligibility to be a Customer
 ## Payment Transfer Activity
 
