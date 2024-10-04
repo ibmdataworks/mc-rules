@@ -1,4 +1,4 @@
- Mastercard Switch Rules
+# Mastercard Switch Rules
 
 27 August 2024
 
